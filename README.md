@@ -1,6 +1,6 @@
 # Cassini - Cronos Incentivised Testnet
 
-Learn more about the competition in the [Blog Post](https://medium.com/crypto-org-chain/introducing-cassini-the-cronos-incentivised-testnet-fe11a42a623d)
+Learn more about the competition in the [Cassini Introduction Blog Post](https://medium.com/crypto-org-chain/introducing-cassini-the-cronos-incentivised-testnet-fe11a42a623d) and the [Competition Official Rules Post](https://medium.com/crypto-org-chain/cassini-cronos-incentivised-testnet-competition-official-rules-official-rules-8555f6e2432f)
 
 Be a Tester 👉 http://cronos.crypto.org/cassini/registration/tester
 
