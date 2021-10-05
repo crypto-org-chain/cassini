@@ -6,18 +6,21 @@ Be a Tester 👉 http://cronos.crypto.org/cassini/registration/tester
 
 Be a Builder 👉 http://cronos.crypto.org/cassini/registration/builder
 
-## Useful links
-
-- [Cassini Explorer](https://cronos.crypto.org/cassini/explorer)
-- [Cassini Faucet](https://cronos.crypto.org/cassini/faucet)
-- [Cassini public endpoint](https://cassini.crypto.org/)
-- [How to connect Cassini incentivised testnet network with metamask](./cassini-network-info/README.md)
-
 ## Latest Updates
 
 Competition is started at 5 Oct, 2021 04:00 UTC.
 
 More details will be updated on this repository during and after the competition. Please subscribe and stay tuned to this GitHub repository.
+
+## What you need to know
+
+- [Cassini Website](https://cronos.crypto.org/cassini)
+- [Cassini Explorer](https://cronos.crypto.org/cassini/explorer)
+- [Cassini Faucet](https://cronos.crypto.org/cassini/faucet)
+- Cassini Public Endpoints
+  - JSON RPC: https://cassini.crypto.org:8545
+  - Tendermint RPC: https://cassini.crypto.org:26657
+- [How to connect Cassini incentivised testnet network with metamask](./cassini-network-info/README.md)
 
 ## Latest Builder List
 
