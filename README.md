@@ -15,9 +15,9 @@ Be a Builder 👉 http://cronos.crypto.org/cassini/registration/builder
 
 ## Latest Updates
 
-Competition will start at 5 Oct, 2021 04:00 UTC.
+Competition is started at 5 Oct, 2021 04:00 UTC.
 
-Network details will be available on this repository on or before the competition begins. Please subscribe and stay tuned to this GitHub repository.
+More details will be updated on this repository during and after the competition. Please subscribe and stay tuned to this GitHub repository.
 
 ## Latest Builder List
 
