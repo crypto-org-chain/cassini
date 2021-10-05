@@ -16,7 +16,7 @@ For Metamask users :
 
 
 
-
+Afterwards, kindly use the [Cassini Faucet](https://cronos.crypto.org/cassini/faucet) and obtain test cro token
 
 # How to build a full node connecting Cassini incentivised testnet network
 
@@ -142,7 +142,7 @@ Before kick-starting your node, we will have to configure your node so that it c
 
 - For network configuration, in `~/.cronos/config/config.toml`, please modify the configurations of `persistent_peers`, `create_empty_blocks_interval` and `timeout_commit` by:
   ```bash
-  $ sed -i.bak -E 's#^(persistent_peers[[:space:]]+=[[:space:]]+).*$#\1"a4a244577f98336a299b13a0d6ecab4188d3a259@10.202.0.63:26656,12db82ba2ff1ebc893bbe426b3cc10b52934e4aa@10.202.1.21:26656,488a7324154c07ba4fe508642e019a88ecfa482f@10.165.0.114:26656"#' ~/.cronos/config/config.toml
+  $ sed -i.bak -E 's#^(persistent_peers[[:space:]]+=[[:space:]]+).*$#\1"a4a244577f98336a299b13a0d6ecab4188d3a259@13.214.93.59:26656,12db82ba2ff1ebc893bbe426b3cc10b52934e4aa@13.251.205.205:26656,488a7324154c07ba4fe508642e019a88ecfa482f@3.67.15.54:26656"#' ~/.cronos/config/config.toml
   $ sed -i.bak -E 's#^(create_empty_blocks_interval[[:space:]]+=[[:space:]]+).*$#\1"5s"#' ~/.cronos/config/config.toml
   $ sed -i.bak -E 's#^(timeout_commit[[:space:]]+=[[:space:]]+).*$#\1"5s"#' ~/.cronos/config/config.toml
   ```
