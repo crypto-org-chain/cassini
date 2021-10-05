@@ -14,12 +14,13 @@ Network details will be available on this repository on or before the competitio
 
 ## Latest Builder List
 
-Last updated at: 4 Oct, 2021 03:30 UTC
+Last updated at: 5 Oct, 2021 02:30 UTC
 
 You can find the latest builder list [here](./builderList.csv).
 
 If you cannot find your address, please make sure that:
 - You have deployed a smart contract (any smart contract is acceptable) to the latest [Cronos Testnet](https://github.com/crypto-org-chain/cronos-testnets) and have submitted the contract address correctly in the registration form;
+- Your Cronos Primary Address is correct
 - You have agreed to the Terms and Conditions as stated in the registration form; and
 - You confirmed that you are not in the restricted countries.
 
@@ -27,10 +28,11 @@ You can re-submit your application after you have completed the above steps.
 
 ## Latest Tester List
 
-Last updated at: 4 Oct, 2021 03:30 UTC
+Last updated at: 5 Oct, 2021 02:30 UTC
 
 You can find the latest tester list [here](./testerList.csv).
 
 If you cannot find your address, please make sure that:
+- Your Cronos Primary Address is correct
 - You have agreed to the Terms and Conditions as stated in the registration form; and
 - You confirmed that you are not in the restricted countries.
