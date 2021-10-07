@@ -24,7 +24,7 @@ More details will be updated on this repository during and after the competition
 
 ## Latest Builder List
 
-Last updated at: 5 Oct, 2021 02:30 UTC
+Last updated at: 7 Oct, 2021 03:00 UTC
 
 You can find the latest builder list [here](./builderList.csv).
 
@@ -38,7 +38,7 @@ You can re-submit your application after you have completed the above steps.
 
 ## Latest Tester List
 
-Last updated at: 5 Oct, 2021 02:30 UTC
+Last updated at: 7 Oct, 2021 04:00 UTC
 
 You can find the latest tester list [here](./testerList.csv).
 
