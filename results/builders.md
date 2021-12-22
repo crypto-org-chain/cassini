@@ -1,4 +1,4 @@
-|No.	Builder Address	Transaction Count
+No.	Builder-Address	                            Transaction-Count
 1	0xc94dc73a2677E012FB6260c680CE5344E3AEAaB8	3923395
 2	0x30af74c02353B9d147CdA1855f28E7073d36f0D1	2361909
 3	0x2cD201BFa4A48169407EA81398aF683b06b29E22	2039029
